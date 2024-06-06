@@ -1,16 +1,30 @@
-# rxdart
+# Chat App
 
-A new Flutter project.
+A chat application built with Flutter that leverages Firebase services for a robust, real-time messaging experience.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Real-time Messaging:**
+    - Chat with other users in real-time using Firestore Database.
 
-A few resources to get you started if this is your first Flutter project:
+- **Push Notifications:**
+    - Receive push notifications for new messages using Firebase Cloud Messaging (FCM).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Theme Switching:**
+    - Toggle between dark and light themes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Authentication:**
+    - Sign in with Google.
+    - Sign in with email and password.
+
+- **Cloud Storage:**
+    - Store and retrieve media files using Firebase Cloud Storage.
+
+## Technologies Used
+
+- **Flutter:** UI framework.
+- **Firebase Firestore:** Database for storing chat messages.
+- **Firebase Cloud Messaging (FCM):** Push notifications.
+- **Firebase Authentication:** User authentication.
+- **Firebase Cloud Storage:** Media file storage.
+

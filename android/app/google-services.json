@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "767729099088",
+    "project_id": "chatapp-8e1ef",
+    "storage_bucket": "chatapp-8e1ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767729099088:android:4f42602c846d5659d0cc55",
+        "android_client_info": {
+          "package_name": "com.example.rxdart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767729099088-99fe8drt9c0lvl25jp4tpntcj6ndh93v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAiSBruyWSaLUxHxnd_VO1bJmXUKgdaQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767729099088-99fe8drt9c0lvl25jp4tpntcj6ndh93v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "767729099088-c94r0rfr658501595p8gues9vdqsemlv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.animations"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
